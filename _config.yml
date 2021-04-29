@@ -1,1 +1,5 @@
+title: Testing github pages
+logo: /.assets/img/logo.png
+description: This is a test to see how GitHub pages works.
+show_downloads: true
 theme: jekyll-theme-minimal
